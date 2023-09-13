@@ -1,4 +1,6 @@
 import csv
+#Codigo para leer una lista de invitados .csv y transformala en un comando de mysql para ejecutarlo en una base de datos
+
 
 # Cambia estos valores según tu configuración
 nombre_archivo = 'invitados.csv'
